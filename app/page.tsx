@@ -174,7 +174,7 @@ const App = () => {
             Build the ultimate chain-agnostic dApp with Universal Accounts. Find
             the repo on{" "}
             <a
-              href="https://github.com/particle-network/ultimate-universal-app"
+              href="https://github.com/soos3d/ultimate-universal-app.git"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#C084FC] hover:underline"

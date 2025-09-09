@@ -3,6 +3,8 @@
 The **Ultimate Universal App** is a community-powered project built with [Particle Network](https://particle.network).  
 It starts as a simple Universal Accounts demo and grows with your contributions into the **ultimate chain-agnostic dApp**.
 
+Join [Particle Network Slack](https://join.slack.com/t/particlenetworkhq/shared_invite/zt-3blxdzcd2-7skD8MNWUn_20eOrp9SICA) to discuss ideas, contribute to the project, and get help.
+
 ---
 
 ## 🚀 What’s Inside
@@ -29,7 +31,7 @@ It starts as a simple Universal Accounts demo and grows with your contributions 
 ### Setup
 
 ```bash
-git clone https://github.com/particle-network/ultimate-universal-app.git
+git clone https://github.com/soos3d/ultimate-universal-app.git
 cd ultimate-universal-app
 npm install
 ```
@@ -72,9 +74,9 @@ We’ll merge the best contributions and give shoutouts:
 	•	Community demo sessions
 
 ### Resources
-	•	Universal Accounts Overview
-	•	Supported Chains
-	•	Web Quickstart Guide
+	•	Universal [Accounts Overview](https://developers.particle.network/intro/universal-accounts)
+	•	Supported [Chains and Assets](https://developers.particle.network/universal-accounts/cha/chains)
+	•	Web [SDK reference](https://developers.particle.network/universal-accounts/ua-reference/desktop/web)
 
 ### License
 
